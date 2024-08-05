@@ -1,4 +1,4 @@
-# project-starter
+Project: CurrencyHub Currency Converter
 
 Upload all your source codes here (header files, cpp files, and resources if any).
 
